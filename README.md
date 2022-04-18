@@ -14,3 +14,5 @@
 14 for statement.
 15 end of file: UNIX, ctrl-d ; Windows ctrl-z.
 16 edit-compile-degug cycle.
+17 if statement.
+18 = assignment operator, == equality operator.
